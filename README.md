@@ -13,7 +13,7 @@
 - HTML e CSS Puro ✅.
 - Código do Projeto ✅.
 - Responsividade ✅.
-- Grid (Em andamento..🏃‍♀️).
+- Grid ✅.
 - FlexBox (Em andamento..🏃‍♀️).
 - Bootstrap (Em andamento..🏃‍♀️).
 
